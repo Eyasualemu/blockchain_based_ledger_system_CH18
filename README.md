@@ -55,6 +55,10 @@ Rename the data attribute to record and set the data type of the record attribut
 ![image](https://github.com/Eyasualemu/blockchain_based_ledger_system_CH18/assets/44585226/f50e064d-d393-4a8e-9b9f-a397d957e392)
 
 
+https://github.com/Eyasualemu/blockchain_based_ledger_system_CH18/assets/44585226/74482d8f-fa4f-4fbc-a5ce-623972661283
+
+
+
 
 
 
